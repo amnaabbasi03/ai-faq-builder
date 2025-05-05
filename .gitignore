@@ -1,0 +1,18 @@
+# Ignore environment files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit and Jupyter cache
+.streamlit/
+.ipynb_checkpoints/
+
+# VSCode settings (if applicable)
+.vscode/
+
+# macOS system files
+.DS_Store
+

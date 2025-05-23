@@ -1,5 +1,6 @@
 # AI FAQ Builder
 
+[Live App →](https://ai-faq-builder.streamlit.app)  
 AI FAQ Builder is a simple web application that lets you upload PDF documents and automatically generates frequently asked questions (FAQs) from the content using OpenAI's GPT models. It is built with Streamlit for easy deployment and user interaction.
 
 ## Overview
